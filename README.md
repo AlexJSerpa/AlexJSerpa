@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Software Developer · Problem Solver · Lifelong Learner
+  Software Developer · Problem Solver 
 </p>
 
 ---
