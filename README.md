@@ -1,4 +1,10 @@
-
+<p align="center">
+  <img
+    src="ronin-banner.png"
+    alt="The Quiet Ronin"
+    width="100%"
+  />
+</p>
 # ⚔️ AlexJSerpa
 
 <p align="center">
