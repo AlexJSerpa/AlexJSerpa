@@ -63,7 +63,3 @@ More projects coming soon.
 <p align="center">
   <i>One commit at a time. One step closer to mastery.</i>
 </p>
-
-<p align="center">
-  ⚔️ THE QUIET RŌNIN
-</p>
