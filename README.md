@@ -1,5 +1,5 @@
 
-# ⚔️ AlexJSerpa | The Quiet Rōnin
+# ⚔️ AlexJSerpa
 
 <p align="center">
   <i>Discipline in code. Humility in knowledge. Progress through practice.</i>
